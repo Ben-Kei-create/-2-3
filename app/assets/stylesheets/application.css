@@ -72,10 +72,10 @@ main {
   flex-wrap: wrap;
 }
 
-.boo-box {
+.book-box {
   width: 200px;
   height: 250px;
-  margin: 10px
+  margin: 10px;
   position: relative;
 }
 
@@ -92,7 +92,7 @@ main {
   font-size: 12px;
   overflow: hidden;
   white-space: nowrap;
-  text-overflow: elipsis;
+  text-overflow: ellipsis;
 }
 
 .book-title {
